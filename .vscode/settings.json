@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "random": "c",
+        "algorithm": "c",
+        "sstream": "c",
+        "PRINT_1_TO_5.C": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
