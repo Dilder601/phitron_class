@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-lass BrowserHistory{
+class Node {
 public:
     class Node {
     public:
